@@ -1,0 +1,6 @@
+0.39s    70621  http://apple.com
+0.44s  1114013  http://cnn.com
+0.92s   628071  http://yahoo.com
+1.43s   210753  http://microsoft.com
+1.80s   201300  http://homedepot.com
+1.80s elapsed
